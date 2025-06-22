@@ -16,3 +16,7 @@
 .text {
 	padding: 12px;
 }
+
+@media only screen and (max-width: 500px) {
+	.card { width: 65% }
+}
